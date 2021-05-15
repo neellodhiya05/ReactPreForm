@@ -69,9 +69,7 @@ export class Select extends Component{
                   
                     <option value="-0.25">-0.25</option>
                   
-                    <option value="" selected="">+/-</option>
-                  
-                    <option value="0.00">0.00</option>
+                  <option value="0.00">0.00</option>
                   
                     <option value="INFINITY">∞</option>
                   
